@@ -1,6 +1,6 @@
 {
-  "name": "react-ux-password-field",
-  "version": "0.9.12",
+  "name": "intr-react-ux-password-field",
+  "version": "0.9.13",
   "license": "MIT",
   "main": "src/index.js",
   "browser": "./lib/react-ux-password-field.js",
@@ -14,10 +14,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/seethroughtrees/react-ux-password-field.git"
+    "url": "https://github.com/intrinsitech/react-ux-password-field.git"
   },
   "bugs": {
-    "url": "https://github.com/seethroughtrees/react-ux-password-field/issues"
+    "url": "https://github.com/intrinsitech/react-ux-password-field/issues"
   },
   "keywords": [
     "react",
