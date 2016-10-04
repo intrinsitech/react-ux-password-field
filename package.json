@@ -1,6 +1,6 @@
 {
   "name": "intr-react-ux-password-field",
-  "version": "0.9.13",
+  "version": "0.9.14",
   "license": "MIT",
   "main": "src/index.js",
   "browser": "./lib/react-ux-password-field.js",
@@ -39,7 +39,8 @@
   },
   "dependencies": {
     "lodash.debounce": "^3.1.1",
-    "react": ">=0.13.0"
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2"
   },
   "devDependencies": {
     "autoprefixer-core": "^6.0.1",

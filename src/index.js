@@ -1,6 +1,7 @@
 'use strict';
 
 var React = require('react'),
+    ReactDOM = require('react-dom'),
     RP    = React.PropTypes,
     config = require('./js/config'),
     debounce = require('lodash.debounce');
